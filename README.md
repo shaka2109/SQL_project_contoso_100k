@@ -17,8 +17,8 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 **Query**:   [Customer_segmentation](Scripts/1.Customer_segmentation.sql)
 
 **Visualization**
+<img src="/images/ltv_pie_chart_pastel_darker.png" alt="Total LTV Distribution" style="widht: 50%; height: auto;">
 
-![LTV Distribution](/images/ltv_pie_chart_pastel_darker.png)
 ###
 
 **Key findings**
@@ -41,8 +41,7 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 **Query**:  [Cohort_year](Scripts/2.Cohort_year.sql) from [Cohort_analysis](Scripts/2.Cohort_analysis.sql)
 
 **Visualization**
-
-![Customer_revenue](/images/customer_revenue.png)
+<img src="/images/customer_revenue.png" alt="Customer Revenue by First Purchase Year" style="widht: 50%; height: auto;">
 
 ###
 **Key findings**
@@ -68,8 +67,8 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 **Query**: [Retention_analysis](Scripts/3.Retention_analysis.sql)
 
 **Visualization**
+<img src="/images/total_customer_retention.png" alt="Total Customer Retention" style="widht: 50%; height: auto;">
 
-![Retention_analysis](/images/total_customer_retention.png)
 ###
 
 **Query**: [Retention_analysis_by_cohort_year](Scripts/3.Retention_analysis_by_cohort.sql)
