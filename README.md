@@ -17,7 +17,7 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 **Query**:   [Customer_segmentation](Scripts/1.Customer_segmentation.sql)
 
 **Visualization**
-<img src="/images/ltv_pie_chart_pastel_darker.png" alt="Total LTV Distribution" style="widht: 50%; height: auto;">
+<img src="/images/ltv_pie_chart_pastel_darker.png" alt="Total LTV Distribution" style="width: 50%; height: auto;">
 
 ###
 
