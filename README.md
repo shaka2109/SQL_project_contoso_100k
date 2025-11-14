@@ -110,8 +110,7 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 
 # Technical details
 - **Database:** PostgreSQL
-- **Analysis tools:** PostgreSQL
-- **Editor:** DBeaver
+- **Analysis tools:** PostgreSQL, DBeaver and PGadmin
 - **Visualization:** ChatGPT
 
 # ACTUALIZAR
