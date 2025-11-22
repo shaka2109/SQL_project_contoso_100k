@@ -79,21 +79,18 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 
 **Visualization**
 
-![Retention_analysis_by_cohort_year](/)
+<img src="/images/Retention_churned_year.jpeg" alt="Retention and churn customers by cohort year" style="width: 50%; height: auto;">
 
 ###
 **Key findings**
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
 - Retention rates are consistently low (8-10) across all cohorts, suggesting retention issues are systemic rather than specific to certain years.
-- Newer cohorts (2022-2023) show similar churn trajectories, signaling that without intervention, future cohorts will follow the same pattern.
-
 - Only ~ 9.5% of the total customers are “active” in the last 6 months without considering first-time-purchasing customers in the same period, implies that less than one in ten customers is retained, limiting the long-term customer lifetime value (CLV), meaning the business might be too dependent on acquiring new customers rather than maximizing value from existing ones.
 
 **Business Insights**
 
-- Some reports even mention that overall average churn for e-commerce stores “often exceeds 60%. In contrast, the churn is ~90.5%, which suggests that customer retention is far below industry norms. This could indicate a serious retention problem or very infrequent repurchase behavior.
-
-- Given that well-performing e-commerce businesses aim for far higher retention, this suggests the need to strengthen the customer engagement strategies (e.g. loyalty programs, re-engagement campaigns, personalized offers).
+- With churn rates above 89% every year, customer royalty programs, personalized engagement, or subscription models could be critical to reduce attrition.
+- The dip in 2023 shows that gains are fragile. Continuos investment in retention strategies is essential to avoid sliding back, implying a need for consistency
 
 ###
 
@@ -113,9 +110,8 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 # Technical details
 - **Database:** PostgreSQL
 - **Analysis tools:** PostgreSQL, DBeaver and PGadmin
-- **Visualization:** ChatGPT
+- **Visualization:** ChatGPT, Copilot
 
 # ACTUALIZAR
 
-- Retention by cohort (grafica, key insights, business insights)
 - Strategic recommendations
