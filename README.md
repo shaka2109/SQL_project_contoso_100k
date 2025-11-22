@@ -79,7 +79,7 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 
 **Visualization**
 
-<img src="/images/Retention_churned_year.jpeg" alt="Retention and churn customers by cohort year" style="width: 50%; height: auto;">
+<img src="/images/Retention_churned.png" alt="Retention and churn customers by cohort year" style="width: 50%; height: auto;">
 
 ###
 **Key findings**
