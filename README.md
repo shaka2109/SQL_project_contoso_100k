@@ -9,8 +9,6 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 2. **Cohort analysis**. How do different customer groups generate revenue?
 3. **Retention analysis**. Which customers have not purchased recently?
 
-
-
 ## Customer Segmentation Analysis
 - Segmented customers into High, Medium, and Low value groups by calculating total lifetime value (LTV) from aggregated revenue.
 
@@ -30,8 +28,6 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 **Business Insights**
 - High-value customers contribute the majority of total LTV, generating 135.6M. It's need to keep the group interested by maybe offering a premium membership program.
 - Average lifetime value increases sharply across segments, showing a steep value gradient within the customer base. It might be helpful to design re-engagement campaigns and price-sensitive promotions for low-value segment.
-
-
 
 ## Cohort Analysis
 - Tracked revenue and customer counts across cohorts.
@@ -56,9 +52,6 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 - Customer value (LTV) has been declining over time and requires deeper investigation.
 - Customer acquisition dropped noticeably in 2023, raising concerns.
 - With falling LTV and decreasing acquisition, the company may be at risk of future revenue decline.
-
-
-
 
 ###
 
@@ -97,21 +90,22 @@ Explored customer behavior and retention metrics, applying LTV analysis to uncov
 # Strategic recommendations
 
 ### Value
-- Create personalized upgrade path for all segments.
-- Design price-sensitive promotions for low-value segment
+
+- Implement a premium program that offers exclusive perks— such as faster shipping, early access to products, VIP support, or tailored rewards.
+- Develop targeted re-engagement campaigns for low-value customers using personalized discounts, bundles, and price-sensitive promotions.
+
 ### Performance
-- Target 2022-2024 cohorts with re-engagement offers.
-- Implement loyalty/subscription programs to stabilize revenue fluctuations.
+
+- Conduct a structured investigation into customer behavior—such as churn drivers, drop-off points in the customer journey. Then, redesign the experience through improved onboarding, better product/value propositions and loyalty incentives.
+- Implement a refreshed acquisition strategy focused on high-ROI channels (referrals, organic growth, targeted ads), optimized onboarding funnels, and improved first-purchase incentives.
+
 ### Retention
-- Strengthen early engagement strategies to target the first 1-2 years with onboarding incentives and loyalty rewards.
-- Focus on targeted win-back campaigns for high-value churned customers.
+
+- Prioritize building a structured retention ecosystem. Including launching a loyalty program, implementing personalized engagement and testing subscription or auto-replenishment options.
+- Maintain continuous investment in retention—such as ongoing customer lifecycle campaigns, quarterly churn-risk reviews, and automated win-back flows.
 ###
 
 # Technical details
 - **Database:** PostgreSQL
 - **Analysis tools:** PostgreSQL, DBeaver and PGadmin
 - **Visualization:** ChatGPT, Copilot
-
-# ACTUALIZAR
-
-- Strategic recommendations
